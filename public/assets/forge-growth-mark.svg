@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150"><rect x="5" y="5" width="140" height="140" rx="30" fill="#111827"/><g transform="translate(31 18) scale(.78)" style="color:#F4511E">
+<path d="M10 8 H92 L76 28 H32 L20 40 H10 Z" fill="currentColor"/>
+<path d="M10 48 H72 L57 68 H32 L20 80 H10 Z" fill="currentColor"/>
+<path d="M10 48 H30 V104 L10 120 Z" fill="currentColor"/>
+</g></svg>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# AI model-training crawlers are additionally controlled in Cloudflare.
+Sitemap: https://www.forgegrowth.co.za/sitemap.xml
